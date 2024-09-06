@@ -1,0 +1,23 @@
+Index: .idea/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title> ss ss ss</title>\r\n</head>\r\n<body>\r\n Hello World\r\n    Sii SSLLL SS\r\n    <h3>modify</h3>\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/index.html b/.idea/index.html
+--- a/.idea/index.html	(revision d2e4e57dd414d3149ea301225e771c729d858d7f)
++++ b/.idea/index.html	(date 1725583881764)
+@@ -5,8 +5,11 @@
+     <title> ss ss ss</title>
+ </head>
+ <body>
+- Hello World
++ Hello Worldfghtfh
+     Sii SSLLL SS
+     <h3>modify</h3>
++dsdawd
++awdlwldl
++awdlawld
+ </body>
+ </html>
